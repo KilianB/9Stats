@@ -2,7 +2,7 @@
 <img align=left src="https://user-images.githubusercontent.com/9025925/51088510-e05cfb00-1760-11e9-8f62-4e7e47240754.png"/>
 
 # 9Stats
-A byproduct of the blog bost "Getting tired of re-uploads, Dismantling 9Gag with perceptual image hashing" demonstrating how duplicates 
+A byproduct of the blog bost <a href="https://medium.com/@kilian.brachtendorf_83099/getting-tired-of-re-uploads-4a4f88908d52">Getting tired of re-uploads, Dismantling 9Gag with perceptual image hashing"</a> demonstrating how duplicates 
 and reuploads of 9Gag could be prevented using <a href="https://github.com/KilianB/JImageHash">JImageHash</a> 
 
 The extension removes a lot of clutter and shows the __upvote__ for posts even if they are voted masked (new posts in fresh).
